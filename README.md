@@ -228,9 +228,9 @@ This runs 30-fold cross-validation and saves:
 If you use this work, please cite:
 
 ```bibtex
-@article{BacLabNet v2.0 2025,
-  title={BacLabNet v2.0: Improved LAB Bacteriocin Classification with ESM-2 and Transformers},
-  author={[Your Name]},
+@article{ahmed2025baclabnetve,
+  title={BacLabNet v2.0: Classification of LAB Bacteriocins Using ESM-2 Embeddings and Attention-Based Neural Architectures},
+  author={Ahmed, Irtaza and Tanvir, Moiz},
   year={2025},
   note={Achieving 95.99\% accuracy with modern protein language models}
 }
