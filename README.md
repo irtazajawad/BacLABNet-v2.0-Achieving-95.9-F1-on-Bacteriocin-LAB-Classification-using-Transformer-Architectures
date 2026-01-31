@@ -10,7 +10,7 @@ This repository contains the implementation and results of our improved pipeline
 
 ---
 
-## 🎯 Key Results
+## Key Results
 
 ### Performance Comparison (30-fold Cross-Validation)
 
@@ -56,7 +56,7 @@ This repository contains the implementation and results of our improved pipeline
 
 ---
 
-## 🚀 What's New?
+## What's New?
 
 Our pipeline introduces several key improvements over the original work:
 
@@ -85,7 +85,7 @@ Our pipeline introduces several key improvements over the original work:
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Total sequences**: 49,964
   - 24,964 BacLAB (bacteriocins)
@@ -101,7 +101,7 @@ Our pipeline introduces several key improvements over the original work:
 
 ---
 
-## 🔬 Methods Overview
+## Methods Overview
 
 ### Feature Extraction Pipeline
 
@@ -142,7 +142,7 @@ Softmax → Output (BacLAB / non-BacLAB)
 
 ---
 
-## 📈 Complete 30-Fold Results
+## Complete 30-Fold Results
 
 | Fold | Accuracy (%) | Precision | Recall | F1 Score | AUC    |
 |------|--------------|-----------|--------|----------|--------|
@@ -165,7 +165,7 @@ Softmax → Output (BacLAB / non-BacLAB)
 
 ---
 
-## 💻 Installation & Usage
+## Installation & Usage
 
 ### Requirements
 
@@ -208,7 +208,7 @@ This runs 30-fold cross-validation and saves:
 
 ---
 
-## 📊 Practical Impact
+## Practical Impact
 
 ### False Positive Reduction
 
@@ -223,7 +223,7 @@ This runs 30-fold cross-validation and saves:
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this work, please cite:
 
@@ -287,7 +287,7 @@ If you use this work, please cite:
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 ### 1. **Modern embeddings are transformative**
 ESM-2 alone contributes +5-8% accuracy over legacy word2vec-style embeddings, consistent with broader protein classification literature.
@@ -304,13 +304,13 @@ AUC = 0.9897 indicates the two classes (BacLAB vs non-BacLAB) are highly separab
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -324,7 +324,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions or collaboration inquiries, please open an issue on this repository.
 
